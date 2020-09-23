@@ -20,10 +20,10 @@ Extract customer insights from multi-dimensional transactional data and meta-dat
 
 #### Customer segmentation
 Segment customers based on the extracted insights. Customised treatment could be applied to each customers segment to maximised your business outcome.
-![][imgs/segmentation_1.png]
-![][imgs/segmentation_2.png]
-![][imgs/segmentation_3.png]
-![][imgs/segmentation_4.png]
-![][imgs/segmentation_5.png]
-![][imgs/segmentation_6.png]
-![][imgs/segmentation_7.png]
+![](img/segmentation_1.png)
+![](img/segmentation_2.png)
+![](img/segmentation_3.png)
+![](img/segmentation_4.png)
+![](img/segmentation_5.png)
+![](img/segmentation_6.png)
+![](img/segmentation_7.png)
