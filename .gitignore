@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+data/
+seller_segmentation/output/
+__pycache__/
